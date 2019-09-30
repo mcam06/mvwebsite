@@ -1,0 +1,240 @@
+
+
+
+/* ------------------------------------------- */
+
+@media only screen and (max-width: 600px){ 
+  p.intro {
+    font-size: 1.2rem;
+    padding:40px 12px 10px;
+    line-height:1.3rem;
+    letter-spacing: 0.1rem;
+  }  
+
+  img.imgs{   
+    width:76px;
+    height:190px; 
+    padding-top:15px;
+    padding-bottom:16px;
+     }  
+
+p.insta,p.info{
+ font-size: 10px;
+ letter-spacing: 0.1rem;
+  }   
+
+h6{
+ font-size: 10px;   
+  }
+
+   /* footer*/
+p.cleft{
+  font-size:6px;
+  letter-spacing:0.1em;
+  }
+  
+
+ /* NavBar*/     
+nav.navbar li a{
+  text-align: center;
+  font-size:10px;
+  padding:0px;
+  }   
+
+   /* logo*/
+
+img#mblue{
+   max-width:62%;
+   height:55%;
+   padding: 3px 0;
+}
+ 
+   /* img work page */
+  
+   img.workpic{
+     max-width: 100%;
+     max-height:100%;
+   } 
+
+  .mainwrk{
+  text-align: center;
+  }
+
+p.text {
+  color: #fcfcfc;
+  font-size: 11px;
+  letter-spacing: 0.06rem;
+  padding-bottom:3px;
+  margin:0px;
+  }
+   
+p.under {
+    color: #fcfcfc;
+    font-size: 8px;
+    letter-spacing: 0.05rem;
+    margin:0px;
+}
+   
+ /*images size - single work show pages*/ 
+    
+  p.center{
+      text-align:center;
+      margin: 20px auto;
+  }
+
+  h2.title{
+    font-size: 18px;
+    letter-spacing: 0.03rem; 
+    }
+    
+  h4.client{
+    font-family: 'Playfair Display',Georgia, serif;
+    font-size: 14px;
+    text-align: left;
+    padding:5px 0 0px 0;
+    letter-spacing: 0.03rem; 
+    }
+    
+  p.secondary{
+    font-size: 10px;
+    text-align:left;
+    padding:0 0 5px 0;
+    }
+
+  p.infowrk{
+    text-align:left;
+    font-size: 10px;
+    letter-spacing: 0.02rem; 
+    padding:0 ;
+      }
+
+div.space{
+  margin-top: 15px;
+  margin-bottom: 4px;
+}
+
+div.side{
+  text-align:left;
+  padding-top:50px;
+  padding-bottom:40px;
+}
+
+a.wrklink{
+  font-size: 9px;
+}
+
+div.firstwrk{
+  margin-top: 30px;
+}
+
+div.illust{
+  text-align:left;
+  padding-top:15px;
+  padding-bottom: 15px;
+}
+
+p.infowrk{
+  text-align:left;
+  color: #19195b;
+  font-size: 10px;
+  letter-spacing: 0.02rem;  
+}
+
+
+p.protitle{
+  font-family: 'Playfair Display',Georgia, serif;
+  color: #19195b;
+  font-size: 10px;
+  text-align:left;
+  letter-spacing: 0.02rem; 
+  margin: 0;
+  padding:0;
+}
+/* -------------------- */
+
+
+@media only screen and (min-width: 767.79px)
+and (max-width: 1199.98px) { 
+  p.intro {
+  font-size: 1.8em;
+  padding:50px 15px 10px;
+  line-height:3rem;
+  letter-spacing: 0.1rem;
+    }
+
+img.imgs{   
+  width:86px;
+  height:210px; 
+  padding-top:15px;
+  padding-bottom:16px;
+   }  
+
+  p.graphic{
+    font-size:1rem;
+    letter-spacing: 0.2rem;
+  }
+
+p.copy{
+  padding-top:0.6% ;
+  padding-bottom: 1%;
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+    }   
+
+  p.insta , p.info{
+      font-size: 10px;
+      letter-spacing: 0.1rem;
+        }   
+
+  p#cright{
+     font-size: 8px;
+     letter-spacing: 0.2em;
+     padding-top: 0.2rem;
+     padding-bottom: 0.4rem;
+    }     
+  
+  h6{
+    font-size: 12px;   
+    }  
+
+.navbar li a{
+  text-align: center;
+  font-size: 10px;
+  padding: 0px 8px;
+  }
+ 
+   /* img responsive work*/
+
+  img.workpic{
+    max-width: 100%;
+    max-height:100%;
+       }
+
+
+  img#mblue{
+   max-width:84%;
+   height:75%;
+   padding: 0px 3px;
+     }
+    
+
+p.text {
+    color: #fcfcfc;
+    font-size: 11px;
+    letter-spacing: 0.1rem;
+    padding-bottom:3px;
+    margin:0px;
+    }
+      
+  p.under {
+      color: #fcfcfc;
+      font-size: 8px;
+      letter-spacing: 0.05rem;
+      margin:0px;
+}
+
+div.space{
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+} 
